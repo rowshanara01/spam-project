@@ -1,4 +1,4 @@
-# Spam Detector (ML + FastAPI + Next.js)
+#### Spam Detector (ML + FastAPI + Next.js)
 
 ## Chalanor niyom
 1. `pip install -r requirements.txt`
